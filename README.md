@@ -1,3 +1,20 @@
+<h1>SnapSyncGram</h1>
+
+<h2>A Social Media Application</h2>
+
+<p>
+A social media user-friendly platform that allows you to create and explore posts as well as save any posts that interest you. This was build following the tutorial of JavaScript Mastery.
+
+The technologies used to build this project are:
+
+- React.js
+- Appwrite
+- React Query
+- TypeScript
+- Shadcn
+- Tailwind CSS
+</p>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
